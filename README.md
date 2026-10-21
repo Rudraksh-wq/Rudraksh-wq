@@ -92,29 +92,6 @@ I'm a developer who enjoys understanding how things work and turning ideas into 
 
 I use these platforms to practice algorithms and improve my problem-solving skills. Visit the profiles for current ratings and activity.
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/39D353/Rudraksh-wq" alt="Green GitHub contribution graph for Rudraksh-wq" width="100%">
-
-<br><br>
-
-<a href="https://github.com/Rudraksh-wq">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudraksh-wq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&ring_color=39D353" alt="GitHub stats">
-</a>
-<a href="https://github.com/Rudraksh-wq">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-wq&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Most used languages">
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Rudraksh-wq&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=39D353&sideNums=39D353&dates=8B949E" alt="GitHub contribution streak">
-
-</div>
-
-<sub>Activity cards are provided by external services and may occasionally be unavailable or rate-limited. The displayed statistics can change as GitHub activity changes.</sub>
-
 ## 🌱 What I'm Learning
 
 - Understanding transformer architecture and GPT-style language models.
