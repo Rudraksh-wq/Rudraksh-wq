@@ -1,111 +1,137 @@
-<!--
-  README for github.com/Rudraksh-wq  (repo name must be exactly: Rudraksh-wq)
+<div align="center">
 
-  CUSTOMIZE:
-  - Search for "TODO" to find everything you may want to change.
-  - Accent color used everywhere: 7c6cff (violet). Replace it in the badge/chart URLs to re-theme.
--->
-
-<h1>Rudraksh Singroul</h1>
-
-**Developer from India, learning by building: machine learning, LLMs, computer vision and backend systems.**
-
-```ts
-const rudraksh = {
-  location: "India",
-  languages: ["Python", "Dart", "C", "C++"],
-  interests: ["Machine Learning", "LLMs", "Computer Vision", "Backend", "DSA"],
-  practice: ["LeetCode", "Codeforces"],
-  approach: "learn a concept, then ship a project that uses it",
-};
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraksh_Singroul-0A66C2?style=flat-square&labelColor=0d1117)](https://www.linkedin.com/in/rudraksh-singroul-b54318376/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/ESYV2BdsqP/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Rudi456-1F8ACB?style=flat-square&logo=codeforces&logoColor=1F8ACB&labelColor=0d1117)](https://codeforces.com/profile/Rudi456)
-[![Email](https://img.shields.io/badge/Email-rudrakshsingroul19%40gmail.com-7c6cff?style=flat-square&logo=gmail&logoColor=7c6cff&labelColor=0d1117)](mailto:rudrakshsingroul19@gmail.com)
-
----
-
-## About
-
-I enjoy turning ideas into working software. My interests sit where algorithms meet applied AI: I'm exploring large language models and computer vision, practicing data structures and algorithms on LeetCode and Codeforces, and building projects to see how these ideas hold up in real code.
-
-Most of my work so far is personal and hackathon projects in Python and Flutter, and I use each one to get better at design, debugging and shipping.
-
----
-
-## Tech Stack
-
-| | |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **App & Backend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&labelColor=0d1117) |
-| **Exploring** | Machine Learning · LLMs · Computer Vision |
-
-<!-- TODO: C and C++ come from the background you gave me. They don't show up in your public repos, so delete them if you'd rather list only what your repos prove. -->
-
----
-
-## Projects
-
-### [USMA: Unified Scholarship Mobile Application](https://github.com/Rudraksh-wq/USMA)
-
-A Flutter app built for Smart India Hackathon 2026 that gives Scheduled Tribe students a single window into Ministry of Tribal Affairs scholarships. It includes a scholarship dashboard, rule-based eligibility checks, application and disbursement tracking, a document vault, and a support chatbot with an offline FAQ. State is managed with Riverpod, data lives in Firebase, and Hive caches content for poor connectivity.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Riverpod](https://img.shields.io/badge/Riverpod-1A237E?style=flat-square)
-
-[Repository](https://github.com/Rudraksh-wq/USMA)
-
-### [Attensia: Attention Span Decay Analyzer](https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer)
-
-A behavioral analytics dashboard that reads YouTube watch history from Google Takeout, with help from the YouTube Data API. It shows estimated completion rates, attention-span trends, short-form versus long-form viewing, and how a viewer's content drifts over time.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[Repository](https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer) <!-- TODO: its README says it's deployed on Streamlit Community Cloud but gives no URL. Paste it here as: · [Live demo](YOUR_STREAMLIT_URL) -->
-
-### [Password Generator](https://github.com/Rudraksh-wq/password-generator)
-
-A small command-line tool in Python that generates random passwords of a chosen length from uppercase and lowercase letters, digits and special characters.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-[Repository](https://github.com/Rudraksh-wq/password-generator)
-
----
-
-## Coding Profiles
-
-I practice problem solving on both platforms. Ratings and solve counts live on the profiles themselves.
-
-| Platform | Profile |
-|:--|:--|
-| LeetCode | [leetcode.com/u/ESYV2BdsqP](https://leetcode.com/u/ESYV2BdsqP/) |
-| Codeforces | [codeforces.com/profile/Rudi456](https://codeforces.com/profile/Rudi456) |
-
----
-
-## GitHub Activity
-
-<!-- Both images below come from free third-party services and may occasionally be slow or rate-limited. They are optional: delete this whole block if one stops loading. -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Rudraksh+Singroul+%F0%9F%91%8B;Developer+%7C+AI+%26+ML+Enthusiast;Learning+by+Building+Real+Projects;Exploring+LLMs+from+Scratch" alt="Animated introduction" />
+</a>
 
 <p>
-  <img alt="Rudraksh-wq contribution graph" src="https://ghchart.rshah.org/7c6cff/Rudraksh-wq" width="100%">
+  <b>Developer from India</b><br>
+  Interested in AI, machine learning, computer vision, and building useful software.
 </p>
 
 <p>
-  <img alt="Most used languages across Rudraksh-wq's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-wq&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c6cff&text_color=c9d1d9" width="50%">
+  <a href="https://www.linkedin.com/in/rudraksh-singroul-b54318376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/ESYV2BdsqP/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/Rudi456"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="mailto:rudrakshsingroul19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:12351E,100:39D353&height=3" width="90%" alt="Green divider">
 
-## Contact
+</div>
 
-| | |
+## `> whoami`
+
+I'm a developer who enjoys understanding how things work and turning ideas into working projects. I'm currently exploring large language models and computer vision, strengthening my Python and PyTorch skills, and practicing data structures and algorithms.
+
+- 🧠 Exploring GPT-style language models and transformer fundamentals.
+- 🔭 Building projects across AI, data analysis, and application development.
+- 💻 Practicing problem-solving with LeetCode and Codeforces.
+- 🌱 Learning through experimentation, debugging, and hands-on development.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,html,css,js,flutter,firebase,mysql,pytorch,git,github,vscode,jupyter&theme=dark" alt="Programming languages and development tools">
+</p>
+
+| Category | Technologies |
 |:--|:--|
-| Email | [rudrakshsingroul19@gmail.com](mailto:rudrakshsingroul19@gmail.com) |
-| LinkedIn | [Rudraksh Singroul](https://www.linkedin.com/in/rudraksh-singroul-b54318376/) |
-| GitHub | [@Rudraksh-wq](https://github.com/Rudraksh-wq) |
+| **Languages** | Python, C, C++, Dart |
+| **Web** | HTML, CSS, JavaScript |
+| **App Development** | Flutter |
+| **AI & Data** | PyTorch, Pandas, Plotly, Streamlit, Jupyter Notebook |
+| **Database & Backend** | MySQL, Firebase |
+| **Tools** | Git, GitHub, VS Code |
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Rudraksh-wq/llm-from-scratch">LLM from Scratch</a></h3>
+      <p>A GPT-style language model built with Python and PyTorch. Explores tokenization, self-attention, transformer blocks, training, and text generation.</p>
+      <p><sub>Python · PyTorch · Jupyter Notebook</sub></p>
+      <a href="https://github.com/Rudraksh-wq/llm-from-scratch">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ <a href="https://github.com/Rudraksh-wq/SatQuery_AI_SIH2026">SatQuery-AI</a></h3>
+      <p>An AI project focused on satellite imagery, combining optical and SAR data with an LLM-based workflow for visual question answering and change detection.</p>
+      <p><sub>Python · LLMs · Computer Vision</sub></p>
+      <a href="https://github.com/Rudraksh-wq/SatQuery_AI_SIH2026">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer">Attensia — Attention Span Decay Analyzer</a></h3>
+      <p>A dashboard that analyzes YouTube watch history to explore viewing patterns, estimated completion rates, and short-form versus long-form content habits.</p>
+      <p><sub>Python · Pandas · Plotly · Streamlit</sub></p>
+      <a href="https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/Rudraksh-wq/USMA">USMA — Unified Scholarship Mobile Application</a></h3>
+      <p>A Flutter app developed for a hackathon concept to bring scholarship information and application-related tools together for Scheduled Tribe students.</p>
+      <p><sub>Flutter · Dart · Firebase</sub></p>
+      <a href="https://github.com/Rudraksh-wq/USMA">Explore repository →</a>
+    </td>
+  </tr>
+</table>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ESYV2BdsqP/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile">
+</a>
+<a href="https://codeforces.com/profile/Rudi456">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile">
+</a>
+
+</div>
+
+I use these platforms to practice algorithms and improve my problem-solving skills. Visit the profiles for current ratings and activity.
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39D353/Rudraksh-wq" alt="Green GitHub contribution graph for Rudraksh-wq" width="100%">
+
+<br><br>
+
+<a href="https://github.com/Rudraksh-wq">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudraksh-wq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&ring_color=39D353" alt="GitHub stats">
+</a>
+<a href="https://github.com/Rudraksh-wq">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-wq&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Most used languages">
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Rudraksh-wq&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=39D353&sideNums=39D353&dates=8B949E" alt="GitHub contribution streak">
+
+</div>
+
+<sub>Activity cards are provided by external services and may occasionally be unavailable or rate-limited. The displayed statistics can change as GitHub activity changes.</sub>
+
+## 🌱 What I'm Learning
+
+- Understanding transformer architecture and GPT-style language models.
+- Improving Python, PyTorch, and model-training fundamentals.
+- Practicing data structures and algorithms.
+- Building and documenting practical software projects.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in AI, software development, or collaborating on a project, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudraksh_Singroul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-singroul-b54318376/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rudraksh--wq-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rudraksh-wq)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrakshsingroul19@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:238636,100:0D1117&height=110&section=footer" alt="Animated green footer">
+
+</div>
