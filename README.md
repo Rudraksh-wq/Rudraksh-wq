@@ -63,10 +63,10 @@ I'm a developer who enjoys understanding how things work and turning ideas into 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer">Attensia — Attention Span Decay Analyzer</a></h3>
-      <p>A dashboard that analyzes YouTube watch history to explore viewing patterns, estimated completion rates, and short-form versus long-form content habits.</p>
-      <p><sub>Python · Pandas · Plotly · Streamlit</sub></p>
-      <a href="https://github.com/Rudraksh-wq/Attensia-Attention-Span-Decay-Analyzer">Explore repository →</a>
+      <h3>🛡️ <a href="https://github.com/OWNER/SIMGuard-AI">SIMGuard AI — SIM-Swap Fraud Gate</a></h3>
+      <p>An AI fraud gate that screens SIM-swap requests before they reach telecom staff. A fine-tuned Laya classifier flags suspicious requests, and uncertain cases go to a human review queue. 🏆 1st Runner-up at Colossus 3.0.</p>
+      <p><sub>Python · PyTorch · ONNX</sub></p>
+      <a href="https://github.com/OWNER/SIMGuard-AI">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Rudraksh-wq/USMA">USMA — Unified Scholarship Mobile Application</a></h3>
